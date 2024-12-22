@@ -8,7 +8,7 @@ You will need it:
 
  Let's configure the phishing...
 
-<img src="https://media.tenor.com/OUYVUInLzHIAAAAC/hacker-pepe.gif" alt="img" style="zoom:10%;" />
+<img src="https://media.tenor.com/OUYVUInLzHIAAAAC/hacker-pepe.gif"/>
 
 
 
